@@ -1,0 +1,4 @@
+maxapi==1.2.2
+loguru==0.7.3
+pydantic-settings==2.15.0
+redis==8.1.0

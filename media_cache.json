@@ -1,0 +1,459 @@
+{
+    "media/menu/menu1.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45952265311,
+            "token": "nsGqEoz/9Xc6VIAqipERz+NOhnyssViCCEt4xDYln222E+Y+KD1jqleB4/FEnxRFf3BYvnMmMRefp26BJ1b3WqeXGY5oUu90/+B95ofG+B8LMMUubWPt84IYYiBB4wJp",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8HxN649qJ2lnAb4EgIeMuJLnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/menu/menu2.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd579.okcdn.ru/?expires=1790749492958&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.226.13&type=2&sig=BasMk977lMk&ct=0&urls=130.49.231.42&clientType=51&id=18447390149356&scl=1",
+            "token": "f9LHodD0cOKtjsb_wl6yQE7wGfAf2WEs4RjPE_eQ5uBYvtj4ryhTPx5nTcjXOI92TKr8qumnQyl4Q-usAXj7"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D18447390149356%26type%3D39%26idx%3D0%26scl%3D3%26tkn%3D9emzKXYfA4-yL9ZpVqOcHS7zRVY&signatureToken=N8JA-mBac4iK-7WoF7cuGg"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/menu/menu3.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd743.okcdn.ru/?expires=1790749499810&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.229.20&type=2&sig=wfcx2zgghxM&ct=0&urls=130.49.226.61&clientType=51&id=18447503657708&scl=1",
+            "token": "f9LHodD0cOL5sbY9jwPOdA3f0ZUcO-Rp7BJ1VgA4v26gTFYcf39CsG9YNRb_q54qpSOsz4cs5el_uqd8dQPn"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D18447503657708%26type%3D39%26idx%3D0%26scl%3D3%26tkn%3D7HcJaUxijJ3bgXFPDj5ZmCyK0_E&signatureToken=VR61FeT5Ygl0odDR5Vpsww"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/menu/menu4.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd583.okcdn.ru/?expires=1790749506905&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.226.17&type=2&sig=dYIt5bfQJxk&ct=0&urls=130.49.231.23&clientType=51&id=18447553268460&scl=1",
+            "token": "f9LHodD0cOIvgm6pxZA5n4SNUDqdi-W7zewKeXFBQ34oOF3f5cLxMUeGXM_EaNg97-NI6ZKu-_RudY99Lmre"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D18447553268460%26type%3D39%26idx%3D1%26scl%3D3%26tkn%3DWsCO3y8SsUYLpu_0iIpcDD7CM2k&signatureToken=btwI26axcI8MMzx_3LXQNw"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/menu/menu5.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd333.okcdn.ru/?expires=1790749522338&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.232.72&type=2&sig=clZlfID5m9I&ct=0&urls=130.49.231.104&clientType=51&id=18447621098220&scl=1",
+            "token": "f9LHodD0cOJX5eGP75vUSCRtZbXzO-fm4ki2Fy_ECfEk3DcyK9I5j8_oysbBQjaxH9Fi59TK7X89AFXhY7Nh"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D18447621098220%26type%3D39%26idx%3D1%26scl%3D3%26tkn%3DRVw7oP-cDhAwv9Q50TBI94hZ6mE&signatureToken=q8-xHLYYPX2lkER-jsM73A"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/menu/library.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd475.okcdn.ru/?expires=1790749539774&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.232.117&type=3&sig=poFV5KHWDCE&ct=0&urls=130.49.230.97&clientType=51&id=18076874770996",
+            "token": "f9LHodD0cOJL1CGUqEpsk5vD5p5SuRyiI9WpMQyEGvuXSSfJj5Vl13nAHWp5e-CmCoPNm4aQhJpnTKyeS9tp"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D18076874770996%26type%3D39%26idx%3D0%26scl%3D4%26tkn%3DfL6h7PhM_cAC4-20yGEl8CsOMKk&signatureToken=4X9Y29MM1CXoeKbxre_uVQ"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/library/\u041b\u0435\u043a\u0446\u0438\u044f_1_\u041e\u0441\u043d\u043e\u0432\u044b_\u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442\u0430.pdf": {
+        "type": "file",
+        "payload": {
+            "url": "https://fd.oneme.ru/getfile?rq=AICL4SFejTN3z5wLFzTTklSsfLD-O_AQkXYRAxT02STVXL1YBigW8J8S6TeQUBV-XQG51vpBHNjsa4txIVYfazgkSvAP_7x6DnhneP3wUfdhqd0YN6PUELqfohl2lHAYLISpxmmSWR2xZK0JkDHWOhL7MZUj7WmoluGLvjmu_LIt_i0Uki3KCcY3W54G&expires=1793255149081",
+            "token": "f9LHodD0cOKGksI3jyyJvEWcAyJDZ1EhsbBTbHkMWV8EN4Q5_ojdyp2PU6VWqzWbEVSvErKby3k8Q747BnvX"
+        },
+        "filename": "\u041b\u0435\u043a\u0446\u0438\u044f_1_\u041e\u0441\u043d\u043e\u0432\u044b_\u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442\u0430.pdf",
+        "size": 6573543
+    },
+    "media/chapter1/ch1.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd581.okcdn.ru/?expires=1790749559792&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.226.15&type=3&sig=dQwsZe0ZXT8&ct=0&urls=130.49.231.133&clientType=51&id=18447812594412&scl=1",
+            "token": "f9LHodD0cOK9bIaRI0FL9U0v8Dic9VFnJG9HdyqNl48x2OrUvH6QpHtzwEa7q7vrQCpaf0nHqsn9tBkHJ-ka"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D18447812594412%26type%3D39%26idx%3D1%26scl%3D3%26tkn%3DBTyNNy6Rded02KAtww6yD9zcaFc&signatureToken=cmS6cyVL97y3MgQwBa1WAQ"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/chapter1/ch2.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954547551,
+            "token": "pWycezW8j6fH0DW/lWlGbsyoD52JPnfVDbjCEBpigcCgDVipCXbU45Ltv8KGsA1DaiTpyTtI4wZVmA4+wq9QcBTpNnyuz1PLaYPvNicAj7Xkmq9P/vG33EAPoxmbg/uy",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8vkommAwY1CWyG3JDCuv9O7nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch3.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954567519,
+            "token": "uuuiFVA7SCYUgioZwMvBq8DT/AWBwLtscNNusvDLHCa0SOaXYz0+3LmhzCpOFmBDi9R7Xmyrj+jtQ9LaPPiA9KXkXYSjOCGYJWmH4YNltF7X3C4i2OvJRiWqsWZxzkKi",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Bd1P3YpD13N6ZGA9L43kYrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch4.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954648159,
+            "token": "S27jekvxsRJ7g7r+cIAycbWFaq5esqQcqkKy5npQXVPFbj+2r+q1B9khFiMIq7a1nTh83gv/4Nx8aks/9Pmi2cgDJ+hZb2/24x3ELgWEd1BPXa0r2ZCrs1H5snf41Xjf",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8MZGzJi3xn4xQKm4wxoiCeLnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch5.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954664031,
+            "token": "yRk2berdzS/lpaVmwOgmfrFek00KFWYXKE6dlLJ7oJTxS+kHb8JCuDBFkRP8E0kSYDmyYl1ahXdfZ4TwqMaiUZS7EApf26OO8qPEZY4IIY9OMeQ2Y1eTz0KEwsmhltn1",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8bEZ1i1sN1ieBvkoCoPQwSrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch8.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954703711,
+            "token": "btcn6alseGzyhhAnOfKWdBomkzzhsyU7XInfWg8QvQ97rlEsl29zuBmCHHj+eqCVfFpfd6E3YnAGPco7j5NST4bvExjP+AOmFad5XcEAI+pgo8NUVWCINXX3iHHAJLwG",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8wiaHsPx7n1-AKPOIK6NuzLnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch9.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954723679,
+            "token": "+ZHay+nCQby6/JpU3Hd0mfEpwH+kOmnhUCc6i+TiR92RBCnWRu8x1TIzfE/Nl3Yz+8wh5m9dWsc3SZINzbBi3KcnNCEc43b8x5Zfbxkcsmh4BtU9qdRfGV6Oz2ba4RMx",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Yagp1cdIGZ_2aCoXg14jqrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch10.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954757727,
+            "token": "w0ey+WdqUS9k9wIitmnyB6u3z4XgGJh0KcuNc3th93j2krrQcd+R/ObUr+xdJwvSIHj67ODMLjVvWx5WnJl10nVKeusQsSnbekcRREzfMSeatvm1Bn7oeKQu0pDBtcoI",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8GQenlX2E8TBtRxPVWAiRYrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch11.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954784095,
+            "token": "amAVucQZ5DOC5GoDDeaVIyaTW8Ozd941otcpWSVz6OiZT67ejcqMYru8o0u+OW+JUjjGJQ7o85rhUBnXpskBi+eueLu7n9L+J/QI6plUsk6VTzmiDkuFt59IwosADMrs",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8eZcqmY6pwMEZhfi54XGQnrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch15.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954807135,
+            "token": "1Ck0oS7749h6zRP3oFZZ6RDMWWhr0Fu++4+7rVKEsyAmG9JYImLoc63hS673R1aT/jXWdKk2p6ry8Ksq/+bU4XXVTKeZlGq0qTLLMdmYSulVueA3Vy1F9jVqNIoL7eVj",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8a3uWzcvGDRu3fhIjazAYILnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch16.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954838111,
+            "token": "eROti/S90bzywvArow9yfxBpTTCZNOOg1SRnySh+nzvEFKFClsdfNvMtkdi4H0hD4Up80EpSQ9oJp5VKA9wunl5Dx6xatCwl9yCYXj+OKubVTF2y/1YTzLhgNMsxI3ta",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8-DqetaXxXT7TYepJKp4fObnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch23.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954865759,
+            "token": "pR8p37Tt9/5b3aPQu3iBKcD2SGooeSGATVE1e8U6lb5RzfIueieGZql0PZ8QBG/fX2ZVE/OIEzz9oIt+5WvQgNk34UfEGtYdqdWSs6ppuPG3q+eKg5pYmQkpH2QW2Gc/",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8OEWETkpEEkPtFdCZ3okgELnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch19.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954898527,
+            "token": "VWV0KhigChCL9OENc2FG+4yEfj2T7Shd8GjfW7TBDN5dvcsG2xmqMP5CrLjzVdru0zRFksjSotD+klUjefLSwPyNIDaon+bRRxIGR3WMTX1cofcEfnrneZ+lprVY7NaT",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8P5rclBOVRe9cxPfccmrq9LnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch21.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954921055,
+            "token": "EIOAOVgMzEBCZY4ELSLLAGH275U+FxbwirhtU6umjw6yF+ZMCyKM+ZFh3StF7EyPLbpkRf1/OXthIYO12UrlMCQ7zlSnzPKoc6M4FSmIr/efCreWEnT5AHEebVOjiSV9",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Kl8kMtZuxY9Wy1BYziNBQ7nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch24.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954943583,
+            "token": "xcQD2gJrAIIZ61BJaZ0kQFMyy4MPqkgrPl4THWlp7eKB2jYmJYJThz585vs/pMew/C1W992gT2HoO77nCmE7KLSF/UdCvCPvn1H5S6gBGv42fqQrYnrte29g4J0G/BGa",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr82qq2W22ZheQcQBHJI6Ni3LnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch25.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954968415,
+            "token": "8ArjWyBBiMLHTO1OWfmZMjugiRcr/3+hgtfRdW7Xuqo9wnp1gdEZ0+L4v8S/G5Hz6/kRj0mctzwqfFK4VIUs4MF9QZAKCEb4N96Nlg11pCmrxSjMdrw+zPR/wsLnBBhz",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Rx6G_TjwFxb8YNYyEb1Q-LnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch26.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45954992991,
+            "token": "k6X5kyG2cRACkIc0xPEUmMYOsZIZrR+/MyRBcxqNzLsp5sHFw0/96Ng36/RBOG9G2K4qG0TvDiWXA1v7LJ/RLr8Z9ABs0W0/8gOOBZqZY7qN6nIF9+QpAUi+sQhQkifT",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8xHHPHUyK1U_kw7ShHF9A_7nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch27.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd652.okcdn.ru/?expires=1790749690908&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.231.3&type=3&sig=xKklgu14R4g&ct=0&urls=130.49.229.81&clientType=51&id=20375447210559&scl=5",
+            "token": "f9LHodD0cOLgj1JpkHyjgy83epAebvucL4v0G8MSyWXHQU4j1esSVxXtPlWXHdaGxuIjv93-kFFwLYWIz92j"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D20375447210559%26type%3D39%26idx%3D2%26scl%3D4%26tkn%3DrHdzJON7zhAj2ebJ1G0_CU3GX2A&signatureToken=B7NNqO4g56ga4PI4t2vOYg"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/chapter1/ch28.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955044959,
+            "token": "Ux3vRZWAjcUj73ax/di85ThoqVLBqBtEL/mHycHAxPge+PpSdk4O9J4Zme0F4px8HGD0cEK7hqPSzvFS5vSPVEkSozGqcrYatGv9uVdfs3XFIltF0TBjqq54hlvswGns",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8jHz6t0Qkxt98yI-H2-hKUrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch29.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955073119,
+            "token": "IqGEn5k1h/ZWtaKmv/P9JeCk4G3zciGGC+R3kXhMuY0nxlRP8IYdhITp64TCfYGtaLH/MUWTtuO7MIu5ChXJSTnkB824L0LeL764T6FmRdY77GTmUM50qhqPC7q8x/Z0",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8eti_ZfhZnkVkajhjGCZ4qLnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch31.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955094879,
+            "token": "z2gxEqOr5DDjWvF60fNR3/iIO3baVoQXppSRLRM1YgWRN4J3n6fghxgzdGl2NzRsRxlKc0c4+tak2/vTDN3fUs+QEiVjkpn0gTtEWbVBdJB7szAV7mZl+cboXNGvaZk8",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8git-9POpPv7QkwMurbck6LnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch32.mp4": {
+        "type": "video",
+        "payload": {
+            "url": "https://maxvd592.okcdn.ru/?expires=1790749720352&srcIp=10.131.192.140&pr=112&srcAg=UNKNOWN&ms=130.49.232.132&type=3&sig=qlyP94g-eYw&ct=0&urls=130.49.226.83&clientType=51&id=20373734165055&scl=5",
+            "token": "f9LHodD0cOKCkSZq1P1L1tQIlVqqK9fcrYND2XIV9JRGEI5KOtpxgtWBOE7PfJ6QQ8YgyDztjfO9pcy_sVLP"
+        },
+        "token": null,
+        "urls": null,
+        "thumbnail": {
+            "photo_id": null,
+            "token": null,
+            "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fiv.okcdn.ru%2FvideoPreview%3Fid%3D20373734165055%26type%3D39%26idx%3D2%26scl%3D4%26tkn%3Dsol34V5kwYRFj-fSlIsbZFFibbQ&signatureToken=2of1uSePJ0NfuHb3k0e0vw"
+        },
+        "width": null,
+        "height": null,
+        "duration": 4
+    },
+    "media/chapter1/ch33.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955145055,
+            "token": "nut+rMKR4Pz4NAwP/yHQoFS9E3CNmkwn8tSsjG6/xFIG7RS4wtaBznY4i8gi7sUK6NLzMf2/b+efmTXKGaRRXpCuCoRPbLBT9qzQEoVy0ALPx/DC/pPIn9W01WcL2GFF",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8yx9IvamHTR7Hc3BpnUeyxrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch34b.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955163231,
+            "token": "XqpB6Xokt5pHgKYYokPsHYGvO+Z70YEUGAT6u6J7i66Cw8xOaOSZa+oShz29dBYcNtAib7nkAqXtRaAT4DNi71+PSc3MD8aZQBxTyevI7Uip1yw9Ec56dfQHUddcpwOE",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8N5XvdRp4G1NIZBk6NYhXmrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch36.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955192415,
+            "token": "d+clk5sCVetiSf4LXTRNPovuWpdwIBO8yCr5oXg6HnYepUQO8q7S1GyGnLrqshqBTMFSd+N+CbY6wCQveha/SmKMZ4sOdUz/UsGVY4+uiGaHQxHpO5h/duRXEfHlc9B9",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8wpz1E81OvPz79vCkqQfdRLnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch37.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955221343,
+            "token": "6mNmzJXlfExLptTOomxMwX/KH7LQAEh8++6GPFr/OiLM1UWi89CVeYAgW634eEFLCXu+4jAs3/z1iXHF02Z2zSx3yRYVTScS29fPqfVrEaLhUqjtDxYQjbYvWzBwP0qI",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr83fibDIkx5bYoChZee8cfz7nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch38.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955245407,
+            "token": "RZfF9VkLM8R9hrNSOUix3ChK+9FtdrloqEAtTqimBw4R5AYdk5dblOhzfxbU+wjoD1vWZL9/xzHKn+YT1N0Gf7ZsBJW5BqCBsWDOr7m7+dkZCoKOXOYSvzkn/SmrfY/R",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Q1ZNPyvQViVUtyPB9vujDbnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch39.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955267423,
+            "token": "xRX3jpVvhqpQZD3prS8ntExvHpq9Q6SafZu5dvzK2PrPLkvZaw03Us7A2dhSC5jnUBKZFIvi0CrgfI5I/lOsJhxOKPlNCdbf2qsUFNVmJaud7/HJU/Eb0eyQq1xdPu6H",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8XkirwKVvomZbshma0hxdvrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch40.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955294815,
+            "token": "KMk0qbbEsIguS5ZzTx8LBPIzQR/XMGJ2hshCeFuUpX9Bh7iYaoWKS2sNa79uXPNCxTJUP+RZfUMPiGrsyjIiNQGkSCIivCe0N7pm+30FjtO7MZnV1ctSJriQblQtD+1x",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8JJ0B4IE8U_w3amdt9IMku7nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch41_2.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955319647,
+            "token": "ia8GiFGhuUlhOwYGgcvofGd9neleVcAZpED+LbXiOLJ68zmkWTX9tQqDiECbZEVzH9cuIBmSuUpbQMfrkF7SQUbeJzM9z9PQkLlDUABZsoXitQkqPDGijnc4O5pVJuxf",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8FvbT-T4NakuexAj188mVVrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch13.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955528543,
+            "token": "pzAhbNFJ4nVHgjYP7HAx28mXKBs3j1aFsmphFLRsBKypcZhN4i5LNNgmxUadqsdH0dwtBHsECj6APnDd2DrijZlqxWD408lwEb6UcHEHrLwPzwSBCx+pXCTKdgUwvw8P",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8z0qQRKIijRFJ0v2nNcmxSrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch18.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955611743,
+            "token": "VLj5VwJC0B7srb8mGHrTIkENQ4ZtJ2h2NpyhqqrvSJiVR53zvddEJ8okZIR2D5DZxmSVaeH1lFbxGp5N2j5dlXHYTFenvjxDmMizuFkwprfkFjmN2aO9T48w4FOLNYJW",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8dZdPaeNEp5-2eNnmn3lR57nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch30.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45955821407,
+            "token": "OxuUyLIO2Y/eHVMQGAwbD5GM4leB2bCxvixQZvhA/6A0Hj8RQH8xFx+QtOFa998jHb7G4fqf/SGYaSa9y7mCx4+8DwExh6UmjFD6eFHm4XVLWYI6ykBHGPhlJKQLKJUJ",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8MX7WEUkopZA0XamzYAihoLnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch41_1.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45956151391,
+            "token": "i/fBhHPZmRSzD865ziz3by6CEbhZ8opZzbqv6gp/Bcy7DVX3zXAYlth6jfbu4rjzV9dTbHj01chNK9ivtYK2N12QSLO6QwrpIKLkeO5X9Jy4OPozQGXbguQZtzeIxqum",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr80PffRULYvojYLnGtwPdlZrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch6.jpg": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45967089759,
+            "token": "pfnp9VdT7bAPSLy7G2r3jKglxddNoBD3Oc3pFMAEavSGJNgTnCuMaTUyEhMclRFu8DZmLN5D5FkIIYd9FleCDwK3iHRSuTG4mpoOj37rcQvEl/S/6VdKpcimBbIIpuXB",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8d1HiL5FImA4WQrWEsBCPtbnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch12.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 45979457887,
+            "token": "wZ/xU6/n7ktzlu898GF98UHxChEHL7SPRH0Ueq2GiFMGkX1o6pJ2AVH0kIKeQcywwo5CiY7OMh1C7BW20WJNDhD1W3hFsakBUBBc9oHg5zR8wz043Rx5X76W2Kj/7XWc",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8daaOSwwOBjyONmoryPezgbnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/no_food.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 46008613471,
+            "token": "/XOH9FewdX/6vhSBaM+9Kyzov9olXmMbgDlEoZ1CUw27EF2S4pr7SKCW2BuHVoK5SaBFP0crKHEFs8pmBOnyvW1v34PAFIeOZCMUmhroa57Uf155HYzvyU3Qd4ykpOgA",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8n_oR0AG-DpSHNFsjuXlUlrnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch20.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 46010003039,
+            "token": "0qyiwMsbZLB+GHxa4Y2eSUrutYce5NDLLDgrl8nTKCc3kz0J0Iaa0k0WARGGmnLgQsqkG+WQcnx78T1rPuE2Ow7LxvE1kwc/5mvPGng4uqOmbF8FDegjwsV1jmUGswKS",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8mO2zekBztcSI1kcphOiL5LnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch34g.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 46011035743,
+            "token": "jY3s6Emq1CvbDFgU7mCL1sc9ywR1DyicpX6VrhFqsOgAkL1Sq563GVJ6RFSjWvsGg5zHIsSsYRbA4TnSGNs5YBbv9Vbc911y7qAS/zh/8O+R/Jz7KrTujxBRUnxgljgb",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8TieJc3b_BC5nEXatF4Qn-7nIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/ch41_3.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 46011398239,
+            "token": "+kUrs2UYt/0pNO/FpnJcHQDaxqFwLSLKVYloS9y10l9O8OQgD9KuA7M3jsPbxFY3BhGRJ2NC2Wl1ctiMV0FnIDsh1Bvp2QxaVKWbPZ1LD+qDacEH/7GRy8/3XgeYGNqg",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr87hNDThUJJIGQhlJ4yzPL0LnIk_xgek98tzvobLG0B0s"
+        }
+    },
+    "media/chapter1/no_energy.png": {
+        "type": "image",
+        "payload": {
+            "photo_id": 46011667295,
+            "token": "1A02jlUGpjYfdWTUvQX1G2SGxS+lgBrMe75VlFog/z6Ad94jwV6Ed9D4KSR44nVZ3mlN7UWu5faXLMEYfAyIDMoGzJm2VAkIs9OqZUhPcg+jgIUZOflNpVtXBDmiwx5V",
+            "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8n_oR0AG-DpSHNFsjuXlUlrnIk_xgek98tzvobLG0B0s"
+        }
+    }
+}
