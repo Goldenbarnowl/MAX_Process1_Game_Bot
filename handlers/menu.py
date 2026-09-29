@@ -98,7 +98,7 @@ async def library_2(event: MessageCreated, context: MemoryContext):
 "В знак благодарности за прохождение испытаний станции "
 "П.Л.О.М.Б.И.Р. передаёт вам набор эксклюзивных стикеров. 🤖\n\n"
 "<blockquote>🦭 <i>Используйте их в общении и помните: даже серьёзной станции "
-"иногда нужен немного тюленьего настроения.</i></blockquote>\n\n📌 <i>Для возвращения в главное меню введите или нажмите /start</i>"
+"иногда нужен немного тюленьего настроения.</i></blockquote>\n\n📌 <i>Для возвращения в главное меню введите или нажмите /start</i>\n\nhttps://max.ru/stickerset/tt3hNEYmsfREBmGO3BHtZYKUG2w9SoJM3Ka2cM8H5Ts"
         ),
         parse_mode=ParseMode.HTML
     )
