@@ -9,13 +9,8 @@
 В процессе прохождения пользователь развивает навыки анализа ситуаций, управления ресурсами и оценки последствий принятых решений, приближаясь к реальным задачам менеджмента и бизнес-аналитики.
 
 ![Демонстрация MAX Process 1](https://github.com/user-attachments/assets/4bdd3d55-16e2-43c8-96e8-e8df6c4faa6d)
-
-
 <a href="https://max.ru/t70_hakaton_max_bot">
-  <img src="https://github.com/user-attachments/assets/a1731425-6a09-4249-9af1-db83c9e33168" />
-</a>
-<a href="https://max.ru/u/f9LHodD0cOK_0z_4JzzOmxuz3Jlble0xjJ2HvxAWyBu1a7xnib4cNk61tn4">
-  <img src="https://github.com/user-attachments/assets/5efe15bb-b55e-471a-8f50-ca93c546c060" />
+  <img src="https://github.com/user-attachments/assets/a1731425-6a09-4249-9af1-db83c9e33168" width="360">
 </a>
 
 ## 🚀 Возможности проекта
@@ -270,7 +265,7 @@ Redis содержит данные о профиле игрока, ресурс
 
 </details>
 <details>
-<summary><h1>⚙️ Установка и запуск проекта</h1></summary>
+<summary><h1>⚙️ Установка проекта</h1></summary>
 
 <br>
 
@@ -399,9 +394,8 @@ LOG_LEVEL=INFO
 ⚠️ Файл `.env` содержит секретные данные и не должен загружаться в GitHub.
 
 </details>
----
 <details>
-<summary><h1>🐳 Запуск</h1></summary>
+<summary><h1>🐳 Запуск проекта</h1></summary>
 
 <br>
 
