@@ -1,0 +1,29 @@
+services:
+
+  bot:
+    build: .
+    container_name: max_game_bot
+    restart: always
+
+    env_file:
+      - .env
+
+    depends_on:
+      - redis
+
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+
+
+  redis:
+    image: redis:7-alpine
+    container_name: max_game_bot_redis
+    restart: always
+
+    volumes:
+      - redis_data:/data
+
+
+volumes:
+  redis_data:
