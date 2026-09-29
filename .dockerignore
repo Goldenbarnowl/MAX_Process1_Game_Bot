@@ -1,0 +1,13 @@
+.venv
+.idea
+.git
+.gitignore
+
+__pycache__
+*.pyc
+
+.env
+
+logs
+
+media_cache.json

@@ -1693,7 +1693,7 @@ async def chapter1_41_1(event: MessageCreated, context: MemoryContext):
     await context.set_state(MenuStates.menu)
     data = await context.get_data()
     if data["food_update"] == 1:
-        await context.update_data(ch1_scientist=1, ch1_security=-1, ch1_worker=-1)
+        await context.update_data(ch1_scientist=1, ch1_security=-1, ch1_worker=1)
     else:
         await context.update_data(ch1_scientist=1, ch1_security=-1, ch1_worker=-1)
     media = InputMedia("media/chapter1/ch41_1.png")
