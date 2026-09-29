@@ -16,35 +16,34 @@ from middlewares.logger_middleware import BotMiddleware
 setup_logging()
 log = get_logger()
 
-from maxapi.context import RedisContext
-import inspect
-
-async def test():
-    print(await redis_client.ping())
-    print(await redis_client.keys("*"))
-
 async def main():
     dp = Dispatcher(
-    context_factory=RedisContext,
-    redis_client=redis_client,
-    key_prefix="maxwater")
+        storage=RedisContext,
+        redis_client=redis_client,
+        key_prefix="maxwater"
+    )
 
     dp.register_outer_middleware(BotMiddleware())
-    dp.include_routers(introduction, menu, chapter1, last_stand)
-    print(inspect.getsource(RedisContext.update_data))
-    print(RedisContext)
-    asyncio.run(test())
+    dp.include_routers(
+        introduction,
+        menu,
+        chapter1,
+        last_stand
+    )
+
     try:
         MediaCache.load()
         apply_patch()
+
         log.info("🚀 Bot starting")
+
         await dp.start_polling(bot)
 
     except Exception:
         log.exception("🆘 Bot crashed")
+
     finally:
         await bot.close_session()
-        log.info("💀 Bot stopping")
 
 
 if __name__ == "__main__":
