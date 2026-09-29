@@ -16,9 +16,12 @@ from middlewares.logger_middleware import BotMiddleware
 setup_logging()
 log = get_logger()
 
-async def test_redis():
-    await redis_client.set("test_key", "hello")
-    print(await redis_client.get("test_key"))
+from maxapi.context import RedisContext
+import inspect
+
+async def test():
+    print(await redis_client.ping())
+    print(await redis_client.keys("*"))
 
 async def main():
     dp = Dispatcher(
@@ -28,7 +31,9 @@ async def main():
 
     dp.register_outer_middleware(BotMiddleware())
     dp.include_routers(introduction, menu, chapter1, last_stand)
-    await test_redis()
+    print(inspect.getsource(RedisContext.update_data))
+    print(RedisContext)
+    asyncio.run(test())
     try:
         MediaCache.load()
         apply_patch()
