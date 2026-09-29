@@ -16,6 +16,10 @@ from middlewares.logger_middleware import BotMiddleware
 setup_logging()
 log = get_logger()
 
+async def test_redis():
+    await redis_client.set("test_key", "hello")
+    print(await redis_client.get("test_key"))
+
 async def main():
     dp = Dispatcher(
     context_factory=RedisContext,
@@ -24,7 +28,7 @@ async def main():
 
     dp.register_outer_middleware(BotMiddleware())
     dp.include_routers(introduction, menu, chapter1, last_stand)
-
+    await test_redis()
     try:
         MediaCache.load()
         apply_patch()
