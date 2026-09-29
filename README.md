@@ -43,9 +43,9 @@
 | `/help` | Получение справочной информации о доступных возможностях |
 | `/edit_name` | Изменение имени пользователя в игровом профиле           |
 | `/present` | Получение стикерпака                                     |
-# 🛣 Roadmap
+
 <details>
-<summary>🛣 Roadmap</summary>
+<summary>><h1>🛣️ Roadmap</h1></summary>
 
 <br>
 
