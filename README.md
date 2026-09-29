@@ -13,6 +13,10 @@
   <img src="https://github.com/user-attachments/assets/a1731425-6a09-4249-9af1-db83c9e33168" width="360">
 </a>
 
+<a href="https://max.ru/u/f9LHodD0cOK_0z_4JzzOmxuz3Jlble0xjJ2HvxAWyBu1a7xnib4cNk61tn4">
+  <img src="https://github.com/user-attachments/assets/5efe15bb-b55e-471a-8f50-ca93c546c060" width="360">
+</a>
+
 ## 🚀 Возможности проекта
 
 - 🤖 Интеграция с мессенджером MAX через MAX API
